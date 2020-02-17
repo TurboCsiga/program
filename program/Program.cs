@@ -10,6 +10,7 @@ namespace program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Első git repo-m");
         }
     }
 }
